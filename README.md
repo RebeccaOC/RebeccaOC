@@ -5,6 +5,11 @@
 * Matplotlib/Seaborn
 * SciKitlearn 
 
+## Previous Projects
+
+* R (statistics and RNA) 
+* Perl (Genomics and DNA alignment) 
+
 ---
 
 ### Project 1: RNA Regulation through Localization- from zipcodes to mass transit   
