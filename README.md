@@ -4,6 +4,7 @@
 * Pandas/Numpy
 * Matplotlib/Seaborn
 * SciKitlearn 
+* SQL
 
 ## Previous Projects
 
