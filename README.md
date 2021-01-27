@@ -51,7 +51,7 @@ Looking further into how dog bites are reported and if any dog breed is over-rep
 
   * Cleaning of public datasets 
   * Determining information from NULL inputs 
-  * Importance of educating police/public on dogs and dog bites
+  * Importance of educating those outside of data science about proper data collection
  
  <p align="left">
  <img width="200px" src="NaN.JPG">
