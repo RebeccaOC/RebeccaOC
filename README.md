@@ -10,6 +10,7 @@
 
 * R (statistics and RNA) 
 * Perl (Genomics and DNA alignment) 
+* Workshop: woodworking, lasercutting, vinyl, and machine repair
 
 ---
 
