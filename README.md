@@ -10,9 +10,12 @@
 
 * R (statistics and RNA) 
 * Perl (Genomics and DNA alignment) 
-* Workshop: woodworking, lasercutting, vinyl, and machine repair
+* Workshop: [lasercutting](https://github.com/RebeccaOC/Wood_Blocks), [woodworking](https://github.com/RebeccaOC/Wood_AddressSign), [vinyl](https://github.com/RebeccaOC/CampShirt), [plot cutter](https://github.com/RebeccaOC/NewYears_2020) and [machine/equipment repair](https://github.com/RebeccaOC/Repair_Pipette) 
 
 ---
+
+## Suggested Repositories: 
+
 
 ### [RNA Regulation through Localization- from zipcodes to mass transit](https://github.com/RebeccaOC/SynapticRNA_Regulation) 
 
