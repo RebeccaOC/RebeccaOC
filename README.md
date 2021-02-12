@@ -10,7 +10,7 @@
 
 * R (statistics and RNA) 
 * Perl (Genomics and DNA alignment) 
-* Workshop: [lasercutting](https://github.com/RebeccaOC/Wood_Blocks), [woodworking](https://github.com/RebeccaOC/Wood_AddressSign), [vinyl](https://github.com/RebeccaOC/CampShirt), [plot cutter](https://github.com/RebeccaOC/NewYears_2020) and [machine/equipment repair](https://github.com/RebeccaOC/Repair_Pipette) 
+* Workshop: [lasercutting](https://github.com/RebeccaOC/Wood_Blocks), [woodworking](https://github.com/RebeccaOC/Wood_AddressSign), [vinyl](https://github.com/RebeccaOC/Vinyl_CampShirt), [plot cutter](https://github.com/RebeccaOC/NewYears_2020) and [machine/equipment repair](https://github.com/RebeccaOC/Repair_Pipette) 
 
 ---
 
