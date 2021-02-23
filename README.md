@@ -8,7 +8,7 @@
 
 ## Previous Projects
 
-* R (statistics and RNA) 
+* R (statistics, bioinformatics, and RNA expression- edgeR, bioconductor) 
 * Perl (Genomics and DNA alignment) 
 * [Workshop](https://github.com/RebeccaOC/Gallery): [lasercutting](https://github.com/RebeccaOC/Wood_Blocks), [woodworking](https://github.com/RebeccaOC/Wood_AddressSign), [vinyl](https://github.com/RebeccaOC/Vinyl_CampShirt), [plot cutter](https://github.com/RebeccaOC/NewYears_2020) and [machine/equipment repair](https://github.com/RebeccaOC/Repair_Pipette) 
 
